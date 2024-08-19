@@ -1,4 +1,4 @@
-# **경상도-표준어 Dialect Translator** 🌐
+# **Gyeong sang do-Seoul Dialect Translator** 🌐
 *Transform your sentences from Standard Korean to 경상도 Dialect effortlessly!*
 
 ## 🚀 **Project Overview**
